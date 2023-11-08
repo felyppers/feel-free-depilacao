@@ -8,3 +8,7 @@ This project was built with JQuery and Bootstrap, but custom Javascript, LESS an
 ## Build
 
 Open `index.htm` using the browser of your preference. Being a static website, there is no need to setup a web server.
+
+## Live version
+
+You can check a live version of it [here](https://felyppers.github.io/feel-free-depilacao)
